@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c399a2b-1041-4dda-bc14-d7c0b674562d" name="Changes" comment="Se elimino main">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemploo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo2.py" afterDir="false" />
+    <list default="true" id="3c399a2b-1041-4dda-bc14-d7c0b674562d" name="Changes" comment="se elimino el main">
+      <change beforePath="$PROJECT_DIR$/Ejemploo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
   "keyToString": {
     "Python.Ejemploo1.executor": "Run",
     "Python.Ejemploo2.executor": "Run",
+    "Python.Ejemploo3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -84,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725922582177</updated>
-      <workItem from="1725922589619" duration="2319000" />
+      <workItem from="1725922589619" duration="3168000" />
     </task>
     <task id="LOCAL-00001" summary="Linea base de \proyecto">
       <option name="closed" value="true" />
@@ -118,7 +118,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725924040499</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Refactorización ejem 02">
+      <option name="closed" value="true" />
+      <created>1725924945694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725924945694</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Refactorización ejem 02">
+      <option name="closed" value="true" />
+      <created>1725924996591</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725924996591</updated>
+    </task>
+    <task id="LOCAL-00007" summary="se elimino el main">
+      <option name="closed" value="true" />
+      <created>1725925026593</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725925026593</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,10 +152,14 @@
     <MESSAGE value="Linea base de \proyecto" />
     <MESSAGE value="Refactorización ejem 01" />
     <MESSAGE value="Se elimino main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se elimino main" />
+    <MESSAGE value="Se elimino el main" />
+    <MESSAGE value="Refactorización ejem 02" />
+    <MESSAGE value="se elimino el main" />
+    <option name="LAST_COMMIT_MESSAGE" value="se elimino el main" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MalosHábitos$Ejemploo2.coverage" NAME="Ejemploo2 Coverage Results" MODIFIED="1725924885210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MalosHábitos$Ejemploo2.coverage" NAME="Ejemploo2 Coverage Results" MODIFIED="1725925044660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MalosHábitos$Ejemploo1.coverage" NAME="Ejemploo1 Coverage Results" MODIFIED="1725923783458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MalosHábitos$Ejemploo3.coverage" NAME="Ejemploo3 Coverage Results" MODIFIED="1725925778400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
