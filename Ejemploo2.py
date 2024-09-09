@@ -1,12 +1,12 @@
-def calcular(a, b, c):
-    res = a * b + c
-    return res
+def ecuación(multiplicando, multipicador, sumando):
+    resultado = multiplicando * multipicador + sumando
+    return resultado
 
 def principal():
-    x = 5
-    y = 3
-    z = 7
-    resultado = calcular(x, y, z)
+    multiplicando = float(input("Multiplicando: "))
+    multipicador = float(input("Multiplicador: "))
+    sumando = float(input("Sumando: "))
+    resultado = ecuación(multiplicando, multipicador, sumando)
     print("El resultado es:", resultado)
 
 principal()
